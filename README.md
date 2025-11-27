@@ -14,8 +14,7 @@ Burger Express is a web-based application for ordering burgers online. The app i
 
 ## Installation
 
-1. Clone the repository:
-   git clone https://github.com/Dev-Dreams/Burger-Express.git
+1. Clone the repository
 2. Navigate to the project directory:
    cd burger-express
 3. Install dependencies:
